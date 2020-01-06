@@ -1,0 +1,9 @@
+com\funtl\oauth2\resource\service\TbContentService.class
+com\funtl\oauth2\OAuth2ResourceApplication.class
+tk\mybatis\mapper\MyMapper.class
+com\funtl\oauth2\resource\domain\TbContent.class
+com\funtl\oauth2\resource\mapper\TbContentMapper.class
+com\funtl\oauth2\resource\config\ResourceServerConfiguration.class
+com\funtl\oauth2\resource\service\impl\TbContentServiceImpl.class
+com\funtl\oauth2\resource\dto\ResponseResult.class
+com\funtl\oauth2\resource\controller\TbContentController.class

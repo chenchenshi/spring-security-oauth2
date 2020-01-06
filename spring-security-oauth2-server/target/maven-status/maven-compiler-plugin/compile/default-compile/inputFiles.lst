@@ -1,0 +1,13 @@
+C:\Users\mi\Desktop\spring-security-oauth2\spring-security-oauth2-server\src\main\java\com\funtl\oauth2\server\config\AuthorizationServerConfigurerAdapter.java
+C:\Users\mi\Desktop\spring-security-oauth2\spring-security-oauth2-server\src\main\java\tk\mybatis\mapper\MyMapper.java
+C:\Users\mi\Desktop\spring-security-oauth2\spring-security-oauth2-server\src\main\java\com\funtl\oauth2\OAuth2ServerApplication.java
+C:\Users\mi\Desktop\spring-security-oauth2\spring-security-oauth2-server\src\main\java\com\funtl\oauth2\server\config\WebSecurityConfigurerAdapter.java
+C:\Users\mi\Desktop\spring-security-oauth2\spring-security-oauth2-server\src\main\java\com\funtl\oauth2\server\service\impl\TbUserServiceImpl.java
+C:\Users\mi\Desktop\spring-security-oauth2\spring-security-oauth2-server\src\main\java\com\funtl\oauth2\server\config\service\UserDetailsServiceImpl.java
+C:\Users\mi\Desktop\spring-security-oauth2\spring-security-oauth2-server\src\main\java\com\funtl\oauth2\server\mapper\TbUserMapper.java
+C:\Users\mi\Desktop\spring-security-oauth2\spring-security-oauth2-server\src\main\java\com\funtl\oauth2\server\service\TbUserService.java
+C:\Users\mi\Desktop\spring-security-oauth2\spring-security-oauth2-server\src\main\java\com\funtl\oauth2\server\mapper\TbPermissionMapper.java
+C:\Users\mi\Desktop\spring-security-oauth2\spring-security-oauth2-server\src\main\java\com\funtl\oauth2\server\service\impl\TbPermissionServiceImpl.java
+C:\Users\mi\Desktop\spring-security-oauth2\spring-security-oauth2-server\src\main\java\com\funtl\oauth2\server\service\TbPermissionService.java
+C:\Users\mi\Desktop\spring-security-oauth2\spring-security-oauth2-server\src\main\java\com\funtl\oauth2\server\domain\TbPermission.java
+C:\Users\mi\Desktop\spring-security-oauth2\spring-security-oauth2-server\src\main\java\com\funtl\oauth2\server\domain\TbUser.java

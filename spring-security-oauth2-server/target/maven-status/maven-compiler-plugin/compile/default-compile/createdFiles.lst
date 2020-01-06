@@ -1,0 +1,13 @@
+com\funtl\oauth2\server\config\WebSecurityConfiguration.class
+com\funtl\oauth2\server\domain\TbPermission.class
+com\funtl\oauth2\OAuth2ServerApplication.class
+com\funtl\oauth2\server\mapper\TbUserMapper.class
+com\funtl\oauth2\server\service\impl\TbPermissionServiceImpl.class
+com\funtl\oauth2\server\mapper\TbPermissionMapper.class
+com\funtl\oauth2\server\service\TbUserService.class
+com\funtl\oauth2\server\domain\TbUser.class
+tk\mybatis\mapper\MyMapper.class
+com\funtl\oauth2\server\config\service\UserDetailsServiceImpl.class
+com\funtl\oauth2\server\service\TbPermissionService.class
+com\funtl\oauth2\server\service\impl\TbUserServiceImpl.class
+com\funtl\oauth2\server\config\AuthorizationServerConfiguration.class

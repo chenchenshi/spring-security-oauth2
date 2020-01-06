@@ -1,0 +1,36 @@
+GET http://localhost:8082/hello
+
+<> 2020-01-06T062820.200.txt
+
+###
+
+GET http://localhost:8082/contents/
+
+<> 2020-01-06T062133.401.json
+
+###
+
+GET http://localhost:8082/contents/hello
+
+<> 2020-01-06T061717.200.txt
+
+###
+
+GET http://localhost:8082/contents/
+
+<> 2020-01-06T061604.401.json
+
+###
+
+GET http://localhost:8082/contents/hello
+
+<> 2020-01-06T061548.200.txt
+
+###
+
+GET http://localhost:8082/contents/
+
+<> 2020-01-06T061528.401.json
+
+###
+
